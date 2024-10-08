@@ -1,4 +1,4 @@
-# confusion
+# Confusion
 Tutorial notebooks to demonstrate Learning by Confusion
 
 
